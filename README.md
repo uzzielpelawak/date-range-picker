@@ -8,13 +8,13 @@ The preferred way to install this extension is through [composer](http://getcomp
 Either run
 
 ```
-php composer.phar require --prefer-dist webvimark/date-range-picker "*"
+php composer.phar require --prefer-dist uzzielpelawak/date-range-picker "*"
 ```
 
 or add
 
 ```
-"webvimark/date-range-picker": "*"
+"uzzielpelawak/date-range-picker": "*"
 ```
 
 to the require section of your `composer.json` file.

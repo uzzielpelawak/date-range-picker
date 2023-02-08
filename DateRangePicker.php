@@ -1,5 +1,5 @@
 <?php
-namespace webvimark\extensions\DateRangePicker;
+namespace uzzielpelawak\extensions\DateRangePicker;
 
 use yii\base\InvalidConfigException;
 use yii\base\Widget;
@@ -11,7 +11,7 @@ use Yii;
  *
  * Wrapper for https://github.com/dangrossman/bootstrap-daterangepicker 
  * 
- * @author vi mark <webvimark@gmail.com> 
+ * @author vi mark <uzzielpelawak@gmail.com> 
  * @license MIT
  */
 class DateRangePicker extends Widget

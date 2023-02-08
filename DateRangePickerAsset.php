@@ -1,6 +1,6 @@
 <?php
 
-namespace webvimark\extensions\DateRangePicker;
+namespace uzzielpelawak\extensions\DateRangePicker;
 
 use yii\web\AssetBundle;
 
